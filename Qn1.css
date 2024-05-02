@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid black;
+    size: 70px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+    
+}
+input{
+    height: 30px;
+    width: 450px;
+}
+button{
+    margin: 15px;
+    padding: 15px;
+    height: 15px;
+}

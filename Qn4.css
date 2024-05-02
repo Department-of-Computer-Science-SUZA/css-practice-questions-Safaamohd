@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+  }
+  
+  h {
+    text-align: left;
+    font-size: 5px;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  ul, ol {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li, ol li {
+    margin-bottom: 10px;
+  }
+  
+  dl {
+    padding: 0;
+    margin: 0;
+  }
+  
+  dt {
+    font-weight: bold;
+  }
+  
+  dd {
+    margin-left: 20px;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+  }
+  
